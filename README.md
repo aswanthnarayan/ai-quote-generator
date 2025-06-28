@@ -2,7 +2,7 @@
 
 A modern web application that generates engaging social media quotes using AI. Upload an image, and let the AI craft perfect captions for Instagram, Facebook, or LinkedIn.
 
-[![Live Demo](https://)
+[![Live Demo](https://ai-quotes-generator.vercel.app/)
 
 ![Screenshot](/public/screenshot.png)
 
